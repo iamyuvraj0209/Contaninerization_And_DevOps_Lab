@@ -5,7 +5,7 @@ SAP ID : 500122430
 Roll No: R2142231497
 Batch  : 7
 
-github repo-link : https://github.com/Raj-2005-cloud/Contaninerization_And_DevOps_Lab
+github repo-link : https://github.com/iamyuvraj0209/Contaninerization_And_DevOps_Lab.git
 
 ## Labs  
 [Experiment-1](Lab1.md)  
