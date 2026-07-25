@@ -14,7 +14,7 @@ The official NGINX image is pre-optimized, uses a Debian-based OS internally, an
 ### Step 1: Pull the Image
 We retrieved the latest official NGINX image from the Docker registry.
 
-![Pulling Official NGINX Image](3.1.png)
+![Pulling Official NGINX Image](Sreenshots/3.1.png)
 *Command:* `docker pull nginx:latest`
 
 ### Step 2: Run the Container
